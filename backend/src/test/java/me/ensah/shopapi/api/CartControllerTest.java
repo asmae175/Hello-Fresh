@@ -1,4 +1,4 @@
-package me.zhulin.shopapi.api;
+package me.ensah.shopapi.api;
 
 import org.junit.Test;
 
