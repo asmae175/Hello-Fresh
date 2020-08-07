@@ -37,25 +37,11 @@ public class ProductController {
 
         ProductInfo productInfo = productService.findOne(productId);
 
-//        // Product is not available
-//        if (productInfo.getProductStatus().equals(ProductStatusEnum.DOWN.getCode())) {
-//            productInfo = null;
-//        }
+
 
         return productInfo;
     }
-/*    @GetMapping("/product/{productId}")
-    public ArrayList<ProductIngredient> showIng(@PathVariable("productId") String productId) {
 
-        //ArrayList<ProductIngredient> productIngredient = productService.findAll1(productId);
-
-//         Product is not available
-   //    if (productInfo.getProductStatus().equals(ProductStatusEnum.DOWN.getCode())) {
-  //          productInfo = null;
- //      }
-
-     //   return productIngredient;
-    }*/
 
     @PostMapping("/seller/product/new")
     public ResponseEntity create(@Valid @RequestBody ProductInfo product,
