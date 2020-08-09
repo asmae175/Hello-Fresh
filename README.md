@@ -1,7 +1,7 @@
 # application de restauration en-ligne 
 
 #### une application de restauration en-ligne utilisant  Spring Boot 2 et Angular 7. 
-notre site est un ""Single Page Appliaction " avec  client-side rendering. il contient un [backend](https://github.com/zhulinn/SpringBoot-Angular7-ShoppingCart/tree/backend) et [frontend](https://github.com/zhulinn/SpringBoot-Angular7-ShoppingCart/tree/frontend) deux differents projet dans deux different branches.
+notre site est un ""Single Page Appliaction " avec  client-side rendering. il contient un [backend](https://github.com/asmae175/Hello-Fresh/tree/master/backend) et [frontend](https://github.com/asmae175/Hello-Fresh/tree/master/frontend) deux differents projet dans deux different branches.
 le  frontend client fait un  API qui appelle  le  backend server durant la compilation .
 
 
