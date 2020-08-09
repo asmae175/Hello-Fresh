@@ -1,8 +1,8 @@
-# Online Shop Application
+# application de restauration en-ligne 
 
-#### A full-stack Online Shop web application using Spring Boot 2 and Angular 7. 
-This is a Single Page Appliaction with client-side rendering. It includes [backend](https://github.com/zhulinn/SpringBoot-Angular7-ShoppingCart/tree/backend) and [frontend](https://github.com/zhulinn/SpringBoot-Angular7-ShoppingCart/tree/frontend) two seperate projects on different branches.
-The frontend client makes API calls to the backend server when it is running.
+#### une application de restauration en-ligne utilisant  Spring Boot 2 et Angular 7. 
+notre site est un ""Single Page Appliaction " avec  client-side rendering. il contient [backend](https://github.com/zhulinn/SpringBoot-Angular7-ShoppingCart/tree/backend) and [frontend](https://github.com/zhulinn/SpringBoot-Angular7-ShoppingCart/tree/frontend) deux differents proget dans deux different branches.
+le  frontend client fait un  API qui appelle  le  backend server durant la compilation .
 
 
 
